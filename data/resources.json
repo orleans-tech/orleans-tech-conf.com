@@ -1,97 +1,67 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "Orléans Tech Conf 2019",
+  "description": "",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "keywords": "event, orleans, tech, technique, programmation, developpeur, web, cloud",
+  "dates": "17 septembre 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
-  "partnershipResources": "Partnership Resources",
-  "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
+  "share": "Partager",
+  "followOur": "Suivez notre",
+  "followUs": "Suivez nous",
+  "emailUs": "Contactez-nous",
+  "partnershipResources": "Partenariats",
+  "eventResources": "Ressources",
+  "buyTicket": "Achetez un ticket",
+  "signIn": "Connexion",
+  "signOut": "Déconnexion",
+  "viewHighlights": "Voir les temps forts",
+  "offlineMessage": "Vous pouvez toujours utiliser le mode hors ligne.",
+  "cachingComplete": "Mise en cache terminée! Vous n'avez plus besoin d'internet.",
+  "newVersionAvailable": "Une nouvelle version de cette application est disponible.",
+  "refresh": "Rafraîchir",
   "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "country": "Pays",
+  "time": "Temps",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Mon Agenda",
+    "browseSession": "Toutes les sessions"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "À propos",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
-        {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Association Orléans Tech",
+          "url": "https://orleans-tech.com/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "",
       "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
       ]
     },
     {
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
+          "name": "Proposition Partenariat",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
-          "name": "Info Partnership Proposition",
+          "name": "Informations Partenariat",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
-          "name": "Media Kit",
+          "name": "Kit Presse",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
@@ -108,106 +78,79 @@
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "Pas de spam, que les dernières informations !",
+  "codeOfConduct": "Code de conduite",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Tout ce que vous devez savoir.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      },
-      "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Texte intro",
+        "label": "",
+        "link": ""
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "180"
       },
       "days": {
-        "label": "Days",
+        "label": "Événements",
         "number": "2"
       },
       "sessions": {
         "label": "Sessions",
         "number": "50"
-      },
-      "tracks": {
-        "label": "Tracks",
-        "number": "4"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "ticketsDetails": "Les tickets vous donnent accès à l'intégralité des conférences de la journée.",
+    "soldOut": "Épuisé !",
+    "notAvailableYet": "Bientôt disponible",
+    "save": "Économisez ${discount}% aujourd'hui"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "Partenaires",
+    "button": "Devenez un partenaire",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Devenez un partenaire !",
+      "submitLabel": "Envoyer",
+      "fullName": "Nom complet",
+      "companyName": "Entreprise"
     },
-    "toast": "We will contact you soon!"
-  },
-  "featuredVideos": {
-    "title": "DFUA'16 featured videos",
-    "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-    }
-  },
-  "blog": {
-    "published": "Published",
-    "suggested": "Up next"
-  },
-  "latestPostsBlock": {
-    "title": "The latest news",
-    "callToAction": {
-      "label": "View all stories",
-      "link": "/blog/"
-    }
+    "toast": "Nous vous contactons au plus vite !"
   },
   "speakers": {
     "skills": "Skills",
-    "previousYears": "Years",
-    "previousYear": "Year"
+    "previousYears": "Années",
+    "previousYear": "Année"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Voir tous les speakers",
       "link": "/speakers/"
     }
   },
   "previousSpeakersBlock": {
-    "title": "Previous speakers",
+    "title": "Précédents speakers",
     "callToAction": {
-      "label": "View all",
+      "label": "Tout voir",
       "link": "/previous-speakers/"
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "Temps forts Orléans Tech",
+    "description": "Tout au long de l'année, l'association Orléans Tech organise des meetups, des soirées networking, et maintenant des conférences tech.",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Voir toutes les photos",
+      "link": "https://www.flickr.com/photos/orleans-tech/albums"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Localisation" // CONTINUE HERE
   },
   "subscribeBlock": {
     "callToAction": {
