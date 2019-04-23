@@ -44,8 +44,7 @@
     },
     {
       "title": "",
-      "links": [
-      ]
+      "links": []
     },
     {
       "title": "Event Resources",
@@ -150,92 +149,92 @@
     }
   },
   "mapBlock": {
-    "title": "Localisation" // CONTINUE HERE
+    "title": "Localisation"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Soyez informés des dernières informations",
+      "label": "S'abonner"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "yourEmail": "Votre email",
+    "emailAddress": "Adresse Email",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "formTitle": "Recevez les dernières mises à jour et informations à propos de l'Orléans Tech Conf.",
+    "emailRequired": "Merci de renseigner un email valide.",
+    "subscribe": "S'abonner",
+    "subscribed": "Abonné",
+    "close": "Fermer",
+    "generalError": "Une erreur est survenue, merci de réessayer plus tard.",
+    "toast": "Inscription réussie !"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "L'association Orléans Tech organise rassemblements à destination de la communauté Tech d'Orléans."
   },
   "schedule": {
-    "saveSessionsSignedOut": "Sign in to save sessions"
+    "saveSessionsSignedOut": "Inscrivez-vous pour sauvegarder vos sessions."
   },
   "sessionDetails": {
-    "contentLevel": "Content level",
-    "viewPresentation": "View presentation",
-    "viewVideo": "View video",
+    "contentLevel": "Niveau de contenu",
+    "viewPresentation": "Voir la présentation",
+    "viewVideo": "Voir la vidéo",
     "speakers": "Speakers"
   },
   "speakerDetails": {
     "sessions": "Sessions"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "Activer les notifications",
+    "enabled": "Vous pouvez vous désinscrire à tout moment",
+    "blocked": "Nous ne pouvons pas vous envoyer de notification pour le moment. Merci d'activer les notifications.",
+    "subscribe": "S'abonner",
+    "unsubscribe": "Se désabonner",
     "enable": {
-      "label": "Enable",
+      "label": "Activer",
       "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
-      "title": "Open"
+      "title": "Ouvrir"
     }
   },
   "aboutOrganizerBlock": {
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organisateur",
+        "description": "Orléans Tech organise plusieurs évenements toute l'année pour les développeurs de la région.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Accéder à la page de l'équipe",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "Qui est derrière Orléans Tech ?",
+        "description": "L'équipe d'Orléans Tech est composée de profils variés tous passionnés par le partage et la convivialité.",
         "callToAction": {
-          "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "label": "En savoir plus",
+          "link": "https://orleans-tech.com",
           "newTab": true
         }
       }
     ]
   },
   "signInDialog": {
-    "alreadyHaveAccount": "You already have an account",
-    "alreadyUsed": "You've already used",
+    "alreadyHaveAccount": "Vous avez déjà un compte",
+    "alreadyUsed": "Vous avez déjà utilisé",
     "signInToContinue": {
-      "part1": "Sign in with",
-      "part2": "to continue."
+      "part1": "Connectez-vous avec",
+      "part2": "pour continuer."
     }
   },
   "filters": {
-    "title": "Filters",
-    "results": "Results",
+    "title": "Filtres",
+    "results": "Résultats",
     "tags": "Tags",
-    "complexity": "Complexity",
-    "clear": "Clear all"
+    "complexity": "Difficulté",
+    "clear": "Réinitialiser"
   },
   "addToHomeScreen": {
-    "cta": "Add to Home Screen"
+    "cta": "Ajouter à l'écran d'accueil"
   }
 }
