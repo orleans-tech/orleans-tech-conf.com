@@ -1,28 +1,28 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "Orléans Tech",
+    "twitter": "orleanstech",
+    "blog": null,
+    "url": "https://orleans-tech.com/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-08-17T09:00:00+01:00",
+  "endDate": "2019-08-17T19:00:00+01:00",
   "webapp": {
-    "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "shortName": "Orléans Tech Conf",
+    "themeColor": "#A1BD52",
+    "backgroundColor": "#A1BD52"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "fr-FR"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "OrleansTechConf",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "Accueil"
     },
     {
       "route": "speakers",
@@ -32,12 +32,12 @@
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Planning"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
+      "label": "Équipe"
     },
     {
       "route": "blog",
@@ -47,16 +47,16 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "",
       "background": {
-        "color": "#673ab7",
+        "color": "#A1BD52",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
     },
     "blog": {
       "title": "Blog",
-      "metaDescription": "Read stories from our team",
+      "metaDescription": "Nos dernières actus",
       "background": {
         "color": "#FFF"
       },
@@ -64,32 +64,32 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Découvrez les passionnés qui partegeront avec vous leurs dernières découvertes et leur expertise.",
+      "description": "Découvrez les passionnés qui partegeront avec vous leurs dernières découvertes et leur expertise.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "title": "Speakers Précédents",
+      "metaDescription": "Découvrez nos anciens speakers",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Planning",
+      "metaDescription": "Sélectionnez les sessions qui vous intéressent",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Équipe",
+      "metaDescription": "Obtenez plus d'infos à propos des organisateurs",
       "background": {
         "color": "#fff"
       },
@@ -97,15 +97,15 @@
     },
     "faq": {
       "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "metaDescription": "Trouvez les réponses à toutes vos questions",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "title": "Code de conduite",
+      "metaDescription": "Apprenez en plus sur ce que nous attendons de notre communauté",
       "background": {
         "color": "#fff"
       },
@@ -113,21 +113,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Localisation",
+    "name": "Lab'O",
+    "city": "Orléans",
+    "short": "Orléans, France",
+    "address": "1 avenue du Champ de Mars",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 47.8941,
+      "longitude": 1.8944500000000062,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 47,
+      "longitude": 0
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Le LAB’O est le nouvel espace de 14 000 m2 spécialement dédié au numérique et aux jeunes entreprises innovantes."
   },
   "mediaQueries": {
     "xs": {
@@ -149,23 +149,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/fr-FR/Orleans-Tech-Talks/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/orleanstech/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/orleanstech/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/orleanstech"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UC4h3vozv_eGX3T7lugI-O7Q"
       }
     ],
     "share": [
@@ -183,26 +183,26 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "contact@orleans-tech.com",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "",
+    "name": ""
   },
   "signInProviders": {
     "providersData": [
       {
         "name": "google",
-        "label": "Sign in with Google",
+        "label": "Connectez-vous avec Google",
         "url": "https://accounts.google.com"
       },
       {
         "name": "facebook",
-        "label": "Sign in with Facebook",
+        "label": "Connectez-vous avec Facebook",
         "url": "https://www.facebook.com"
       },
       {
         "name": "twitter",
-        "label": "Sign in with Twitter",
+        "label": "Connectez-vous avec Twitter",
         "url": "https://twitter.com"
       }
     ],
