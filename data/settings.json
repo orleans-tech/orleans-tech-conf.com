@@ -16,7 +16,7 @@
     "locale": "fr-FR"
   },
   "hashtag": "OrleansTechConf",
-  "disabledSchedule": false,
+  "disabledSchedule": true,
   "showSessionShortAbstract": true,
   "navigation": [
     {
@@ -38,11 +38,6 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Équipe"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -53,14 +48,6 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
-    },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Nos dernières actus",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Speakers",

@@ -84,13 +84,13 @@
     "callToAction": {
       "featuredSessions": {
         "description": "Texte intro",
-        "label": "",
-        "link": ""
+        "label": "En savoir plus",
+        "link": "https://orleans-tech.com/"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
+        "label": "Participants",
         "number": "180"
       },
       "days": {
