@@ -25,16 +25,6 @@
       "label": "Accueil"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Planning"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "label": "Équipe"

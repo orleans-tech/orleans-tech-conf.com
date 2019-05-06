@@ -8,7 +8,7 @@
   "share": "Partager",
   "followOur": "Suivez notre",
   "followUs": "Suivez nous",
-  "emailUs": "Contactez-nous",
+  "emailUs": "Contact",
   "partnershipResources": "Partenariats",
   "eventResources": "Ressources",
   "buyTicket": "Achetez un ticket",
@@ -154,7 +154,7 @@
   "subscribeBlock": {
     "callToAction": {
       "description": "Soyez informés des dernières informations",
-      "label": "S'abonner"
+      "label": "Abonnez-vous"
     },
     "yourEmail": "Votre email",
     "emailAddress": "Adresse Email",
@@ -162,14 +162,14 @@
     "lastName": "Nom",
     "formTitle": "Recevez les dernières mises à jour et informations à propos de l'Orléans Tech Conf.",
     "emailRequired": "Merci de renseigner un email valide.",
-    "subscribe": "S'abonner",
+    "subscribe": "Abonnez-vous",
     "subscribed": "Abonné",
     "close": "Fermer",
     "generalError": "Une erreur est survenue, merci de réessayer plus tard.",
     "toast": "Inscription réussie !"
   },
   "team": {
-    "description": "L'association Orléans Tech organise rassemblements à destination de la communauté Tech d'Orléans."
+    "description": "L'association Orléans Tech organise des rassemblements à destination de la communauté Tech d'Orléans."
   },
   "schedule": {
     "saveSessionsSignedOut": "Inscrivez-vous pour sauvegarder vos sessions."
@@ -187,7 +187,7 @@
     "default": "Activer les notifications",
     "enabled": "Vous pouvez vous désinscrire à tout moment",
     "blocked": "Nous ne pouvons pas vous envoyer de notification pour le moment. Merci d'activer les notifications.",
-    "subscribe": "S'abonner",
+    "subscribe": "Abonnez-vous",
     "unsubscribe": "Se désabonner",
     "enable": {
       "label": "Activer",
