@@ -83,7 +83,7 @@
     "title": "Tout ce que vous devez savoir.",
     "callToAction": {
       "featuredSessions": {
-        "description": "Texte intro",
+        "description": "Orléans Tech Conf est un évènement à but non lucratif, organisé pour la communauté tech Orléanaise ainsi que de la région Centre. Il rassemblera durant une journée des passionnés, étudiant.e.s, professionnel.le.s du monde de la tech. Les sujets abordés seront divers, que ce soit DevOps, Machine Learning / AI, Frontend ainsi que Backend.",
         "label": "En savoir plus",
         "link": "https://orleans-tech.com/"
       }
@@ -169,7 +169,7 @@
     "toast": "Inscription réussie !"
   },
   "team": {
-    "description": "L'association Orléans Tech organise des rassemblements à destination de la communauté Tech d'Orléans."
+    "description": "Orléans Tech est une association créée en 2015, qui organise régulièrement des évènements visant à rassembler la communauté Tech & IT de la région Centre, autour de thématiques techniques.<br/><br/>Avec plus de 1000 membres inscrits sur meetup.com, c’est la plus grande communauté Tech de la région Centre !"
   },
   "schedule": {
     "saveSessionsSignedOut": "Inscrivez-vous pour sauvegarder vos sessions."
@@ -202,7 +202,7 @@
     "blocks": [
       {
         "title": "Organisateur",
-        "description": "Orléans Tech organise plusieurs évenements toute l'année pour les développeurs de la région.",
+        "description": "Orléans Tech est une association créée en 2015, qui organise régulièrement des évènements visant à rassembler la communauté Tech & IT de la région Centre, autour de thématiques techniques.<br/><br/>Avec plus de 1000 membres inscrits sur meetup.com, c’est la plus grande communauté Tech de la région Centre !",
         "callToAction": {
           "label": "Accéder à la page de l'équipe",
           "link": "/team"
