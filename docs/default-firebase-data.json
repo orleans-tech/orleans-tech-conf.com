@@ -25,19 +25,13 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
+          "logoUrl": "../images/logos/itm.png",
+          "name": "IT&M Régions",
+          "url": "https://it-m.fr/filiales/regions/"
         }
       ],
       "order": 1,
-      "title": "Partenaires Gold"
+      "title": "Partenaires Silver"
     }
   ],
   "schedule": {
@@ -114,7 +108,7 @@
             },
             {
               "icon": "website",
-              "link": "http://stanislaschollet.com/",
+              "link": "https://stan.life/",
               "name": "Site"
             }
           ],
@@ -125,17 +119,29 @@
           "name": "Mélissa Araoune",
           "photo": "/images/people/melissa_araoune.jpeg",
           "photoUrl": "https://media.licdn.com/dms/image/C4E03AQEOIBoO75Zpdw/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=R0GsuhPLtB3nRtzXFnWI-kd1OcKuvrrm4pro9cnh1PY",
-          "socials": [],
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/melissaaraoune/",
+              "name": "LinkedIn"
+            }
+          ],
           "order": 1,
-          "title": "Orga"
+          "title": "Secrétaire"
         },
         {
           "name": "Aldo Battaglia",
           "photo": "/images/people/aldo_battaglia.jpg",
           "photoUrl": "https://live.staticflickr.com/4248/34027460253_4dcab1d585.jpg",
-          "socials": [],
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/aldobattaglia/",
+              "name": "LinkedIn"
+            }
+          ],
           "order": 2,
-          "title": "Orga"
+          "title": "Trésorier"
         },
         {
           "name": "Maxime Rossignol",
@@ -165,7 +171,13 @@
           "name": "John Devos",
           "photo": "/images/people/john_devos.jpg",
           "photoUrl": "https://live.staticflickr.com/4750/39620950661_8be703ffd9.jpg",
-          "socials": [],
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/john-devos-8b3b8839/",
+              "name": "LinkedIn"
+            }
+          ],
           "order": 4,
           "title": "Orga"
         },
