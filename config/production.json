@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://orleanstech.firebaseapp.com/",
+  "analytics": "",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyCeZf_cnvGxVKm3ozelN5uyujF3169LPYo",
+    "authDomain": "orleanstech.firebaseapp.com",
+    "databaseURL": "https://orleanstech.firebaseio.com",
+    "projectId": "orleanstech",
+    "storageBucket": "orleanstech.appspot.com",
+    "messagingSenderId": "764012910020"
   },
   "googleMapApiKey": ""
 }
