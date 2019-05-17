@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://orleanstech.firebaseapp.com/",
+  "analytics": "",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyCeZf_cnvGxVKm3ozelN5uyujF3169LPYo",
+    "authDomain": "orleanstech.firebaseapp.com",
+    "databaseURL": "https://orleanstech.firebaseio.com",
+    "projectId": "orleanstech",
+    "storageBucket": "orleanstech.appspot.com",
+    "messagingSenderId": "764012910020"
+  },
+  "googleMapApiKey": ""
+}

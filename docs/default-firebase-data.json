@@ -1,0 +1,222 @@
+{
+  "blog": {},
+  "gallery": [
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7421.jpg?alt=media&token=4d7a1dc4-514a-46a1-b7d9-fec8291892f0",
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7444.jpg?alt=media&token=0eab5bf9-8913-4681-8f9a-1ba72e812365",
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7472.jpg?alt=media&token=4eaa940f-6a1e-47a6-be15-0db812bf5c90",
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7523.jpg?alt=media&token=7b823ac4-9658-4829-98f0-91b5bb8b2015",
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7545.jpg?alt=media&token=6a4f03e9-feaf-4e7b-9adc-ae010e3767b1",
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7525.jpg?alt=media&token=a6a35253-6e60-4f53-98ea-bf4dc18aa9e2",
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7661.jpg?alt=media&token=1bf72af8-6038-4306-9688-6940b0835d66",
+    "https://firebasestorage.googleapis.com/v0/b/orleans-tech-conf-dev.appspot.com/o/IMG_7470.jpg?alt=media&token=79be6a0b-0edc-4f64-9194-444982c68092"
+  ],
+  "notifications": {
+    "config": {
+      "icon": "",
+      "timezone": "+01:00"
+    },
+    "messages": {},
+    "subscribers": {},
+    "test": {},
+    "users": {}
+  },
+  "partners": [
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/itm.png",
+          "name": "IT&M Régions",
+          "url": "https://it-m.fr/filiales/regions/"
+        }
+      ],
+      "order": 1,
+      "title": "Partenaires Silver"
+    }
+  ],
+  "schedule": {
+    "2019-09-17": {
+      "dateReadable": "17 Septembre",
+      "timeslots": [
+        {
+          "endTime": "19:00",
+          "sessions": [
+            {
+              "items": [101]
+            }
+          ],
+          "startTime": "09:00"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Salle principale"
+        }
+      ]
+    }
+  },
+  "sessions": {
+    "101": {
+      "complexity": null,
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": [],
+      "title": "À définir"
+    }
+  },
+  "speakers": {
+    "john_doe": {
+      "bio": "Lorem ipsum dolor sit amet",
+      "company": "Lorem Corporation",
+      "companyLogo": "/images/logos/gdg-lviv.svg",
+      "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "country": "France",
+      "featured": true,
+      "name": "John Doe",
+      "photo": "/images/people/adrian_kajda.jpg",
+      "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
+      "shortBio": "Lorem ipsum",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "twitter.com/OrleansTech",
+          "name": "Google+"
+        }
+      ],
+      "order": 0,
+      "title": "Lorem Master"
+    }
+  },
+  "team": [
+    {
+      "members": [
+        {
+          "name": "Stan Chollet",
+          "photo": "/images/people/stan_chollet.jpg",
+          "photoUrl": "https://live.staticflickr.com/4224/34837131335_1419b5d2de.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/tsunammis",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/tsunammis",
+              "name": "Github"
+            },
+            {
+              "icon": "website",
+              "link": "https://stan.life/",
+              "name": "Site"
+            }
+          ],
+          "order": 0,
+          "title": "Président"
+        },
+        {
+          "name": "Mélissa Araoune",
+          "photo": "/images/people/melissa_araoune.jpeg",
+          "photoUrl": "https://media.licdn.com/dms/image/C4E03AQEOIBoO75Zpdw/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=R0GsuhPLtB3nRtzXFnWI-kd1OcKuvrrm4pro9cnh1PY",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/melissaaraoune/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 1,
+          "title": "Secrétaire"
+        },
+        {
+          "name": "Aldo Battaglia",
+          "photo": "/images/people/aldo_battaglia.jpg",
+          "photoUrl": "https://live.staticflickr.com/4248/34027460253_4dcab1d585.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/aldobattaglia/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": "Trésorier"
+        },
+        {
+          "name": "Maxime Rossignol",
+          "photo": "/images/people/maxime_rossignol.jpg",
+          "photoUrl": "https://live.staticflickr.com/4341/37171004146_fbfd57d2c6.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/themaxoor",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/TheMaxoor",
+              "name": "Github"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/mrossignol1/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 3,
+          "title": "Orga"
+        },
+        {
+          "name": "John Devos",
+          "photo": "/images/people/john_devos.jpg",
+          "photoUrl": "https://live.staticflickr.com/4750/39620950661_8be703ffd9.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/john-devos-8b3b8839/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 4,
+          "title": "Orga"
+        },
+        {
+          "name": "Olivier Gigot",
+          "photo": "/images/people/olivier_gigot.jpg",
+          "photoUrl": "https://media.licdn.com/dms/image/C5603AQHw36wZC2sb7Q/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=9QMt4jGzMsJuMMlPaAW1Q4353LiKzCR3I8jQBAbwpyA",
+          "socials": [],
+          "order": 5,
+          "title": "Orga"
+        },
+        {
+          "name": "Paul Dos Santos",
+          "photo": "/images/people/paul_dossantos.jpeg",
+          "photoUrl": "https://media.licdn.com/dms/image/C4D03AQFxiceReO5KDQ/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=oKSJuO-JLf49HaG3OzuR89I0QGkGk8m7tNStcEzcclk",
+          "socials": [],
+          "order": 6,
+          "title": "Orga"
+        }
+      ],
+      "title": "Bureau"
+    }
+  ],
+  "tickets": [
+    {
+      "available": false,
+      "currency": "€",
+      "ends": "13 Oct",
+      "info": "",
+      "name": "EDU",
+      "price": 80,
+      "soldOut": false,
+      "starts": "15 Mai",
+      "url": "https://2event.com/events/1027108"
+    }
+  ],
+  "triggers": {
+    "images": false
+  },
+  "videos": [],
+  "previousSpeakers": {}
+}

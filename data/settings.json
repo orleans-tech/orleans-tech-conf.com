@@ -1,0 +1,205 @@
+{
+  "organizer": {
+    "name": "Orléans Tech",
+    "twitter": "orleans_tech",
+    "blog": null,
+    "url": "https://orleans-tech.com/"
+  },
+  "startDate": "2019-08-17T09:00:00+01:00",
+  "endDate": "2019-08-17T19:00:00+01:00",
+  "webapp": {
+    "shortName": "Orléans Tech Conf",
+    "themeColor": "#A1BD52",
+    "backgroundColor": "#A1BD52"
+  },
+  "dateFormat": {
+    "locale": "fr-FR"
+  },
+  "hashtag": "OrleansTechConf",
+  "disabledSchedule": true,
+  "showSessionShortAbstract": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Accueil"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/",
+      "label": "Équipe"
+    }
+  ],
+  "heroSettings": {
+    "home": {
+      "description": "",
+      "background": {
+        "color": "#A1BD52",
+        "image": "/images/backgrounds/home.jpg"
+      },
+      "fontColor": "#FFF"
+    },
+    "speakers": {
+      "title": "Speakers",
+      "metaDescription": "Découvrez les passionnés qui partegeront avec vous leurs dernières découvertes et leur expertise.",
+      "description": "Découvrez les passionnés qui partegeront avec vous leurs dernières découvertes et leur expertise.",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "previousSpeakers": {
+      "title": "Speakers Précédents",
+      "metaDescription": "Découvrez nos anciens speakers",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "schedule": {
+      "title": "Planning",
+      "metaDescription": "Sélectionnez les sessions qui vous intéressent",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "team": {
+      "title": "Équipe",
+      "metaDescription": "Obtenez plus d'infos à propos des organisateurs",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "faq": {
+      "title": "FAQs",
+      "metaDescription": "Trouvez les réponses à toutes vos questions",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "cod": {
+      "title": "Code de conduite",
+      "metaDescription": "Apprenez en plus sur ce que nous attendons de notre communauté",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    }
+  },
+  "location": {
+    "label": "Localisation",
+    "name": "Lab'O",
+    "city": "Orléans",
+    "short": "Orléans, France",
+    "address": "1 avenue du Champ de Mars",
+    "pointer": {
+      "latitude": 47.8941,
+      "longitude": 1.8944500000000062,
+      "zoom": 5
+    },
+    "mapCenter": {
+      "latitude": 47,
+      "longitude": 0
+    },
+    "description": "Le LAB’O est le nouvel espace de 14 000 m2 spécialement dédié au numérique et aux jeunes entreprises innovantes."
+  },
+  "mediaQueries": {
+    "xs": {
+      "max": "639px"
+    },
+    "sm": {
+      "min": "640px",
+      "max": "811px"
+    },
+    "md": {
+      "min": "812px",
+      "max": "1023px"
+    },
+    "lg": {
+      "min": "1024px"
+    }
+  },
+  "socialNetwork": {
+    "follow": [
+      {
+        "name": "meetup",
+        "url": "https://www.meetup.com/fr-FR/Orleans-Tech-Talks/"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/orleanstech/"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/orleans_tech/"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/orleans.tech"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC4h3vozv_eGX3T7lugI-O7Q"
+      }
+    ],
+    "share": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer.php?u="
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?text="
+      }
+    ]
+  },
+  "mailto": "contact@orleans-tech.com",
+  "mailchimp": {
+    "url": "",
+    "name": ""
+  },
+  "signInProviders": {
+    "providersData": [
+      {
+        "name": "google",
+        "label": "Connectez-vous avec Google",
+        "url": "https://accounts.google.com"
+      },
+      {
+        "name": "facebook",
+        "label": "Connectez-vous avec Facebook",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "name": "twitter",
+        "label": "Connectez-vous avec Twitter",
+        "url": "https://twitter.com"
+      }
+    ],
+    "allowedProvidersUrl": [
+      "https://accounts.google.com",
+      "https://www.facebook.com",
+      "https://twitter.com"
+    ]
+  },
+  "contentLoaders": {
+    "schedule": {
+      "itemsCount": 2
+    },
+    "blog": {
+      "itemsCount": 3
+    },
+    "speakers": {
+      "itemsCount": 4
+    },
+    "previousSpeakers": {
+      "itemsCount": 6
+    },
+    "tickets": {
+      "itemsCount": 5
+    }
+  }
+}

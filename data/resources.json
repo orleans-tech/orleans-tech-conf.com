@@ -1,0 +1,230 @@
+{
+  "title": "Orléans Tech Conf 2019",
+  "description": "",
+  "image": "images/social-share.jpg",
+  "keywords": "event, orleans, tech, technique, programmation, developpeur, web, cloud",
+  "dates": "17 septembre 2019",
+  "partnershipProposition": "https://drive.google.com/file/d/1RdJuJj5T29O8gd60hZJaP8VOjBbH1KsS/view?usp=sharing",
+  "share": "Partager",
+  "followOur": "Suivez notre",
+  "followUs": "Suivez nous",
+  "emailUs": "Contact",
+  "partnershipResources": "Partenariats",
+  "eventResources": "Ressources",
+  "buyTicket": "Achetez un ticket",
+  "signIn": "Connexion",
+  "signOut": "Déconnexion",
+  "viewHighlights": "Voir les temps forts",
+  "offlineMessage": "Vous pouvez toujours utiliser le mode hors ligne.",
+  "cachingComplete": "Mise en cache terminée! Vous n'avez plus besoin d'internet.",
+  "newVersionAvailable": "Une nouvelle version de cette application est disponible.",
+  "refresh": "Rafraîchir",
+  "position": "Position",
+  "country": "Pays",
+  "time": "Temps",
+  "faq": "/data/faq.md",
+  "cod": "/data/cod.md",
+  "footer": {
+    "blog": "Blog"
+  },
+  "mySchedule": {
+    "title": "Mon Agenda",
+    "browseSession": "Toutes les sessions"
+  },
+  "footerRelBlock": [
+    {
+      "title": "À propos",
+      "links": [
+        {
+          "name": "Association Orléans Tech",
+          "url": "https://orleans-tech.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "",
+      "links": []
+    },
+    {
+      "title": "Ressources",
+      "links": [
+        {
+          "name": "Proposition et Information Partenariat",
+          "url": "https://drive.google.com/file/d/1RdJuJj5T29O8gd60hZJaP8VOjBbH1KsS/view?usp=sharing",
+          "newTab": true
+        },
+        {
+          "name": "Call for Papers",
+          "url": "https://www.papercall.io/orleans-tech-conf-2019",
+          "newTab": true
+        },
+        {
+          "name": "FAQs",
+          "url": "/faq/",
+          "newTab": false
+        }
+      ]
+    }
+  ],
+  "subscribeNote": "Pas de spam, que les dernières informations !",
+  "codeOfConduct": "Code de conduite",
+  "aboutBlock": {
+    "title": "Tout ce que vous devez savoir.",
+    "callToAction": {
+      "featuredSessions": {
+        "description": "Orléans Tech Conf est un évènement à but non lucratif, organisé pour la communauté tech Orléanaise ainsi que de la région Centre. Il rassemblera durant une journée des passionnés, étudiant.e.s, professionnel.le.s du monde de la tech. Les sujets abordés seront divers, que ce soit DevOps, Machine Learning / AI, Frontend ainsi que Backend.",
+        "label": "En savoir plus",
+        "link": "https://orleans-tech.com/"
+      }
+    },
+    "statisticsBlock": {
+      "attendees": {
+        "label": "Participants",
+        "number": "180"
+      },
+      "days": {
+        "label": "Événements",
+        "number": "2"
+      },
+      "sessions": {
+        "label": "Sessions",
+        "number": "50"
+      }
+    }
+  },
+  "ticketsBlock": {
+    "title": "Tickets",
+    "ticketsDetails": "Les tickets vous donnent accès à l'intégralité des conférences de la journée.",
+    "soldOut": "Épuisé !",
+    "notAvailableYet": "Bientôt disponible",
+    "save": "Économisez ${discount}% aujourd'hui"
+  },
+  "partnersBlock": {
+    "title": "Partenaires",
+    "button": "Devenez un partenaire",
+    "form": {
+      "title": "Devenez un partenaire !",
+      "submitLabel": "Envoyer",
+      "fullName": "Nom complet",
+      "companyName": "Entreprise"
+    },
+    "toast": "Nous vous contactons au plus vite !"
+  },
+  "speakers": {
+    "skills": "Skills",
+    "previousYears": "Années",
+    "previousYear": "Année"
+  },
+  "speakersBlock": {
+    "title": "Speakers",
+    "callToAction": {
+      "label": "Voir tous les speakers",
+      "link": "/speakers/"
+    }
+  },
+  "previousSpeakersBlock": {
+    "title": "Précédents speakers",
+    "callToAction": {
+      "label": "Tout voir",
+      "link": "/previous-speakers/"
+    }
+  },
+  "galleryBlock": {
+    "title": "Temps forts Orléans Tech",
+    "description": "Tout au long de l'année, l'association Orléans Tech organise des meetups, des soirées networking, et maintenant des conférences tech.",
+    "callToAction": {
+      "label": "Voir toutes les photos",
+      "link": "https://www.flickr.com/photos/orleans-tech/albums"
+    }
+  },
+  "mapBlock": {
+    "title": "Localisation"
+  },
+  "subscribeBlock": {
+    "callToAction": {
+      "description": "Soyez informés des dernières informations",
+      "label": "Abonnez-vous"
+    },
+    "yourEmail": "Votre email",
+    "emailAddress": "Adresse Email",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "formTitle": "Recevez les dernières mises à jour et informations à propos de l'Orléans Tech Conf.",
+    "emailRequired": "Merci de renseigner un email valide.",
+    "subscribe": "Abonnez-vous",
+    "subscribed": "Abonné",
+    "close": "Fermer",
+    "generalError": "Une erreur est survenue, merci de réessayer plus tard.",
+    "toast": "Inscription réussie !"
+  },
+  "team": {
+    "description": "Orléans Tech est une association créée en 2015, qui organise régulièrement des évènements visant à rassembler la communauté Tech & IT de la région Centre, autour de thématiques techniques.<br/><br/>Avec plus de 1000 membres inscrits sur meetup.com, c’est la plus grande communauté Tech de la région Centre !"
+  },
+  "schedule": {
+    "saveSessionsSignedOut": "Inscrivez-vous pour sauvegarder vos sessions."
+  },
+  "sessionDetails": {
+    "contentLevel": "Niveau de contenu",
+    "viewPresentation": "Voir la présentation",
+    "viewVideo": "Voir la vidéo",
+    "speakers": "Speakers"
+  },
+  "speakerDetails": {
+    "sessions": "Sessions"
+  },
+  "notifications": {
+    "default": "Activer les notifications",
+    "enabled": "Vous pouvez vous désinscrire à tout moment",
+    "blocked": "Nous ne pouvons pas vous envoyer de notification pour le moment. Merci d'activer les notifications.",
+    "subscribe": "Abonnez-vous",
+    "unsubscribe": "Se désabonner",
+    "enable": {
+      "label": "Activer",
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+    },
+    "toast": {
+      "title": "Ouvrir"
+    }
+  },
+  "aboutOrganizerBlock": {
+    "image": "/images/team.jpg",
+    "blocks": [
+      {
+        "title": "Organisateur",
+        "description": "Orléans Tech est une association créée en 2015, qui organise régulièrement des évènements visant à rassembler la communauté Tech & IT de la région Centre, autour de thématiques techniques.<br/><br/>Avec plus de 1000 membres inscrits sur meetup.com, c’est la plus grande communauté Tech de la région Centre !",
+        "callToAction": {
+          "label": "Accéder à la page de l'équipe",
+          "link": "/team"
+        }
+      },
+      {
+        "title": "Qui est derrière Orléans Tech ?",
+        "description": "L'équipe d'Orléans Tech est composée de profils variés tous passionnés par le partage et la convivialité.",
+        "callToAction": {
+          "label": "En savoir plus",
+          "link": "https://orleans-tech.com",
+          "newTab": true
+        }
+      }
+    ]
+  },
+  "signInDialog": {
+    "alreadyHaveAccount": "Vous avez déjà un compte",
+    "alreadyUsed": "Vous avez déjà utilisé",
+    "signInToContinue": {
+      "part1": "Connectez-vous avec",
+      "part2": "pour continuer."
+    }
+  },
+  "filters": {
+    "title": "Filtres",
+    "results": "Résultats",
+    "tags": "Tags",
+    "complexity": "Difficulté",
+    "clear": "Réinitialiser"
+  },
+  "addToHomeScreen": {
+    "cta": "Ajouter à l'écran d'accueil"
+  }
+}

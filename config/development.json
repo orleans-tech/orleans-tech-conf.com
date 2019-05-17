@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://orleans-tech-conf-dev.firebaseapp.com/",
+  "analytics": "",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyA5XfIphqxM2zR1zjkTo7lE_nJFVzVFXQc",
+    "authDomain": "orleans-tech-conf-dev.firebaseapp.com",
+    "databaseURL": "https://orleans-tech-conf-dev.firebaseio.com",
+    "projectId": "orleans-tech-conf-dev",
+    "storageBucket": "orleans-tech-conf-dev.appspot.com",
+    "messagingSenderId": "496228572733"
+  },
+  "googleMapApiKey": ""
+}
