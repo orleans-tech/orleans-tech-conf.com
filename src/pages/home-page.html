@@ -162,8 +162,19 @@
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
           </paper-button> -->
+          <a href="https://www.papercall.io/orleans-tech-conf-2019" target="_blank">
           <paper-button
-            on-tap="_scrollToTickets"
+            ga-on="click"
+            ga-event-category="cfp"
+            ga-event-action="click"
+            ga-event-label="hero block - click on cfp"
+            primary
+          >
+              Call for Paper
+            </paper-button>
+          </a>
+          <paper-button
+            on-tap="https://www.papercall.io/orleans-tech-conf-2019"
             ga-on="click"
             ga-event-category="tickets"
             ga-event-action="scroll"
