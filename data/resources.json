@@ -83,13 +83,13 @@
         "label": "Participants",
         "number": "180"
       },
-      "days": {
-        "label": "Événements",
-        "number": "2"
+      "talks": {
+        "label": "Talks",
+        "number": "8"
       },
-      "sessions": {
-        "label": "Sessions",
-        "number": "50"
+      "workshop": {
+        "label": "Ateliers / Workshops",
+        "number": "4"
       }
     }
   },
