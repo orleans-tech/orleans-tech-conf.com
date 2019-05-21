@@ -1,137 +1,93 @@
 ## General
 
-### Dates and location
+### Date et lieu
 
-GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
+Orléans Tech Conf aura lieu le **mardi 17 septembre** au 5ème étage du **LAB’O Village By CA Orléans**, situé au **1 Avenue du Champ de Mars, 45100 Orléans**. La conférence ouvrira ses portes à 8h30, jusqu'a 18h00. S'en suivra une soirée, sur laquelle nous communiquerons directement avec vous.
 
-### Stay Informed
+### Restez informé
 
-To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdg.org.ua/), RSVP on [Meetup]( https://www.meetup.com/GDG-Lviv/events/244342635/) and follow us on [Facebook](https://www.facebook.com/devfest.ukraine/) and [Twitter](https://twitter.com/devfest_ukraine). You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
+Pour rester informé des dernières news concernant la conférence, les speakers(euses), les sponsors etc. Nous vous invitons à consulter régulièrement les adresses suivantes:
+
+* [Orléans Tech Conf 2019](https://orleans-tech-conf.com/)
+* [L'évènement sur Eventbrite](https://www.eventbrite.com/e/billets-orleans-tech-conf-2019-61858302849)
+* [Le site de l'association](https://orleans-tech.com)
+* [Compte Twitter](https://twitter.com/orleans_tech)
+* [Compte Facebook](https://www.facebook.com/orleanstech/)
 
 ### Content Formats
 
-During two conference days attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after party, and more.
-
-### Livestream & Recordings
-
-If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Lviv [youtube channel](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w) few weeks after the conference. Workshops won’t be recorded. Also, there could be a livestream provided by participants which you can find via #dfua and #Devfest18 hashtags.
-
+Orléans Tech Conf 2019 se tiendra sur une journée, avec un seul _track_. 8 Conférences sur l'ensemble de la journée, avec en parallèle, 4 sessions de workshop.
   
-## Registration
+## Enregistrement
 
+### Dates d'enregistrement
 
-### Drawing Dates
+Il sera possible d'acheter des places jusqu'à la veille de l'évènement, c'est-à-dire jusqu'au lundi 16 septembre 19h00. Pour acheter un ticket, veuillez vous rendre sur la plateform dédiée de chez Eventbrite -> [https://www.eventbrite.com/e/billets-orleans-tech-conf-2019-61858302849](https://www.eventbrite.com/e/billets-orleans-tech-conf-2019-61858302849). 
 
-The window to buy a ticket will be opened until 6PM GMT+2 on October 11th 2018, or earlier if the tickets are sold out. If the ticket was bought after September 30th registered participants won’t get printed badge (their names will be written on the badge by marker). To buy a ticket [follow the link]( https://2event.com/events/1027108), select required ticket type, fill in the required information and pay for it.
+Une fois que votre billet sera acheté, vous recevrez un email avec la version électronique de votre ticket. Veillez à posséder ce ticket sur vous le jour de l'évènement, il sera nécessaire pour entrer.
 
-Once you've successfully payed for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
-
-  
-
-### Ticket Types
-
-#### **Pre-Early birds tickets**
-
-General Admission: $50
-
-Conditions: Feb 7 - Mar 7 or first 50 tickets
+### Types de tickets
 
 #### **Early birds tickets**
 
-General Admission: $70
+Admission générale : 45€
 
-Conditions: Mar 7 - Jun 30 or first 200 tickets
+Conditions : 17 mars jusqu'au 1er juillet
 
-#### **Lazy birds tickets**
+#### **Regular tickets**
 
-General Admission: $90
+Admission générale :55€
 
-Conditions: Jul 1 - Sep 30 or until tickets will be sold out
+Conditions : 1er juillet jusqu'au 16 septembre 19h00
 
-#### **EDU (Students/lecturers) Tickets**
+#### **Étudiant tickets**
 
-We offer a limited number of tickets at a discounted rate of $30 for full-time students and lecturers. To qualify, you need to be a student or a professor, faculty or staff at a higher education institution. Be aware that PhD students are not in the list. Once purchased, general admission tickets can't be converted to EDU tickets, and vice versa.
+Admission générale : 35€
 
-When you check in at the conference, you'll need to provide a current student ID (active during the conference dates), transcript, credential, or other form of documentation which demonstrates that you’re qualified to receive this special rate. If you buy an academic ticket and can't provide academic documentation when you arrive at DevFest, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission.
+Conditions : 17 mars jusqu'au 16 septembre 19h00
 
-#### **Press Tickets**
+Nous offrons une réduction pour les étudiants. Pour profiter de ce tarif, vous devrez justifier d'être étudiant à la date de l'évènement. Une fois acheté, un ticket "Early bird ticket" ou "Regular ticket" ne pourra être converti en un ticket étudiant. Attention, si vous achetez un billet étudiant, il vous sera demandé un justificatif le jour de l'évènement, si vous n'êtes pas en capacité de justifier votre statut d'étudiant, vous ne pourrez pas rejoindre la conférence et aucun remboursement ne sera effectué.
 
-We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://goo.gl/forms/SmKHuksRw8sb0eoB2). If you have additional questions, please email [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua) for more information. Please note that we’ll have a limited number of press passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
+### Conditions d'inscription
 
-#### **I Love DFUA**
-
-General admission: $150
-
-Special tickets for real supporters of our conference. As we’re organizing the event on non-profit basis, additional resources will help us bring more cool speakers from all over the world and additionally invest into demo-zone, party, and other activities. Owners of “I love DFUA” tickets will get additional valuable benefits from our team.
-
+- Les tickets pour Orléans Tech Conf 2019 sont valables pour la journée entière. 
+- Vous pouvez acheter un ticket pour le compte d'une autre personne (par exemple pour un cadeau). Veuillez remplir le formulaire d'inscription avec les informations de cette personne directement (pour les parties "Acheteur du billet", "Informations professionnelles" et "Autres informations".
+- Les tickets pour Orléans Tech Conf 2019 ne sont pas transférables. 
+- En achetant un billet pour Orléans Tech Conf 2019, vous acceptez le réglement intérieur de l'évènement. 
+- Lors de l'enregistrement le jour de l'évènement, un badge vous sera assigné. Si vous n'avez pas la pièce d'identité en accord avec votre ticket, vous ne pourrez pas accéder à l'évènement. Aucun remboursement ne sera effectué. 
+- Si vous achetez un billet étudiant, il vous sera demandé un justificatif le jour de l'évènement, si vous n'êtes pas en capacité de justifier votre statut d'étudiant, vous ne pourrez pas rejoindre la conférence et aucun remboursement ne sera effectué. 
+- Après le 1er septembre 2019, tous les tickets seront finaux. Aucun échange ou remboursement ne sera effectué indépendamment des conditions météos, de la disponibilité des conférenciers ou toutes autres circonstances. 
+- Les participants ne sont pas autorisés à amener des invités à Orléans Tech Conf. Si vous avez une personne qui voyage avec vous, elle devra s’inscrire et acheter un billet. Pour la soirée une inscription sera également demandée.
+- Des photographies et des vidéos seront prises lors d'Orléans Tech Conf 2019, par les organisateurs ou par d'autres personnes au nom des organisateurs de la conférence. Vous acceptez qu'Orléans Tech ou d'autres personnes au nom d'Orléans Tech puissent les utiliser à quelque fin que ce soit sans aucune compensation de la part des organisateurs.
+- Toutes les informations saisies dans le formulaire d'inscription doivent être correctes et exactes. Toutes les informations doivent être entrées en français. Certaines des informations saisies (telle que le nom, la société et le titre) seront affichées sur le badge du participant.
+- Tous les participants inscrits acceptent de permettre à Orléans Tech de les contacter au sujet de leur inscription et de leur participation à l'événement. En vous inscrivant à un billet, vous acceptez de permettre à GDG Lviv de communiquer avec vous par courrier électronique avec les informations relatives à l'événement.
+- Vous acceptez d'être seul responsable de votre sécurité, de vos biens et de votre bien-être en participant à Orléans Tech Conf. Les organisateurs ne seront pas tenus responsables de votre participation à Orléans Tech Conf.
+- Les candidats et les participants peuvent demander la suppression de leurs données d'inscription à la fin de l'événement en envoyant un courrier électronique à [contact@orleans-tech.com](mailto: contact@orleans-tech.com).
   
 
-### Registration Terms & Conditions
+### Plus de détails d'inscription
 
-- Tickets for GDG DevFest Ukraine are for the full two-day conference and no single-day tickets are available. 
-- You may buy a ticket on behalf of the other person (for example, make a gift). Just mention during purchase the name, company and title of the person who will attend the event. 
-- GDG DevFest Ukraine tickets must be used by the original registrant and are non-transferable. 
-- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Ukraine, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization. 
-- At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference. 
-- If you buy an EDU ticket and can't provide academic documentation during check-in at GDG DevFest Ukraine, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID or other proof that you are qualified to receive this special rate when you check in at the conference. 
-- Ticket purchases can be refunded before October 4th, 2018 via your profile at the [ticket service website]( https://2event.com/events/1027108). 
-- After October 4th, 2018, all ticket sales are final. There will be no refunds or exchanges regardless of weather conditions, session availability, or any other circumstance. 
-- Attendees aren’t permitted to bring guests to GDG DevFest Ukraine or to the after hours party. If you have someone traveling with you, they’ll need to register themselves and purchase an attendee ticket. 
-- Photographs and/or video taken at GDG DevFest Ukraine by GDG Lviv, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Lviv may use such photographs and/or video for any purpose without any compensation to you. 
-- All information entered into the registration form must be correct and accurate to the best of your knowledge. All information expected to be entered in English. Some of the information entered (such as name, company and title), will be displayed on the attendee badge. 
-- By registering for a ticket you acknowledge that your information will be used in accordance with [Tickets provider Terms of Service](https://2event.com/en/agreement). 
-- All registered attendees agree to allow GDG Lviv to contact them regarding their registration and attendance at the event. By registering for a ticket, you agree to allow GDG Lviv to communicate with you via email with information regarding the event. 
-- You agree to be solely responsible for your own safety, belongings and well-being while participating in GDG DevFest Ukraine. Organizers won't be liable for your participation in GDG DevFest Ukraine. 
-- Applicants and attendees can request the deletion of their registration data after the event ends by emailing [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua). 
-  
+- Assurez-vous de vous inscrire en utilisant le nom qui correspond à la pièce d'identité que vous utiliserez le jour de l'événement.
+- L'inscription à Orléans Tech Conf 2019 comprend une journée complète de sessions. Nous fournissons également des collations comprises dans l'inscription. En outre, les participants reçoivent un badge de la conférence.
 
-### More Registration Details
+## Détails de présence
 
-- Please make sure to register using the name that matches the government-issued photo ID you’ll be presenting when you check in to the festival. 
-- Registration for GDG DevFest Ukraine includes two full days of sessions, product demos, admission to the after hours party, and attendance at the keynotes. We also provide complimentary snacks each day. In addition, attendees receive a conference badge and may be offered additional gifts.  
-- If you aren’t a resident of Ukraine, you should check with your local government to determine the required documents and arrangements needed for your travel to Ukraine. If you require a visa letter regarding your GDG DevFest Ukraine attendance please indicate so when completing the registration form and we’ll email it to you within 7 business days. If you haven’t received your letter or have questions regarding the process, you can contact [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua). GDG Lviv won’t be able to contact an embassy on your behalf. 
-  
+### Langue
 
-## Attendance Details
+Les conférences seront en Français.
 
-### Language
+### After-party
 
-All presentations at GDG DevFest Ukraine will be in English.
+Une soirée sera organisée le mardi 17 septembre. Seules les personnes qui ont validé leur inscription à cette soirée lors de l'achat de leur billet pour la conférence pourront y assister. Les badges de la conférence seront nécessaires pour l’entrée. Des boissons alcoolisées seront disponibles pour les 18 ans et plus.
 
-### Pro Tips
+### Dress code
 
-If you’re joining us in-person at Planeta Kino, here are some useful tips to navigate your way through the conference:
+Orléans Tech Conf 2019 est un événement tech, soyez confortable et décontracté. Il n'y a pas de code vestimentaire imposé.
 
-- Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office. 
-- Lunch: Attendees are invited to have a lunch at one of the many restaurants at King Cross shopping mall. 
-- After Hours: Day 1 afterparty you don’t want to miss! Attendees are invited to enjoy food, drinks, music, games, and more during the evening of October 12th (location will be published). Your attendee badge is required for entrance. 
-  
+### Espaces fumeurs
 
-### Badges & Badge Pick-up
+L'évènement est non fumeur ainsi que la térasse du 5ème étage. Il vous sera demandé de sortir du batiment afin de pouvoir fumer.
 
-To expedite the check-in process, we’ll begin badge pick-up on Thursday, October 11, (location will be published). Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
+### Aucune sollicitation
 
-Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 9AM on October 12th. So make sure to come in on time!
-
-Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Ukraine badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Ukraine badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Ukraine badges may include your name, company or work title (if provided).
-
-  
-
-### Afterparty
-
-All registered attendees are invited to the afterparty on the evenings of October 12th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
-
-  
-
-### Event Attire
-
-GDG DevFest is a developer event, so please be comfortable and casual. There is no enforced dress code.
-
-
-### Smoking
-
-Smoking is only permitted in designated outdoor smoking areas.
-
-### No Soliciting
-
-No solicitation or selling of items or services is allowed at GDG DevFest Ukraine. Any attendee conducting these activities may be removed from the conference.
+Aucune sollicitation ni vente d'articles ou de services n'est autorisée à Orléans Tech Conf 2019 en dehors des sponsors désignés. Tout participant menant ces activités pourra être retiré de la conférence.

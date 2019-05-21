@@ -25,7 +25,7 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/itm.png",
+          "logoUrl": "../images/logos/itm.jpg",
           "name": "IT&M Régions",
           "url": "https://it-m.fr/filiales/regions/"
         }
@@ -203,15 +203,37 @@
   ],
   "tickets": [
     {
-      "available": false,
+      "available": true,
       "currency": "€",
-      "ends": "13 Oct",
+      "ends": "1 Jul",
       "info": "",
-      "name": "EDU",
-      "price": 80,
+      "name": "Early-bird ticket",
+      "price": 45,
       "soldOut": false,
       "starts": "15 Mai",
-      "url": "https://2event.com/events/1027108"
+      "url": "https://www.eventbrite.fr/e/billets-orleans-tech-conf-2019-61858302849#tickets"
+    },
+    {
+      "available": true,
+      "currency": "€",
+      "ends": "16 Oct",
+      "info": "",
+      "name": "Student ticket",
+      "price": 35,
+      "soldOut": false,
+      "starts": "15 Mai",
+      "url": "https://www.eventbrite.fr/e/billets-orleans-tech-conf-2019-61858302849#tickets"
+    },
+    {
+      "available": false,
+      "currency": "€",
+      "ends": "16 Sep",
+      "info": "",
+      "name": "Ticket",
+      "price": 55,
+      "soldOut": false,
+      "starts":  "1 Jul",
+      "url": "https://www.eventbrite.fr/e/billets-orleans-tech-conf-2019-61858302849#tickets"
     }
   ],
   "triggers": {

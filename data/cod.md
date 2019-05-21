@@ -1,52 +1,28 @@
-### 1. Purpose
+## Code de conduite pour la conférence
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+Tous les participants, conférenciers, sponsors et volontaires pour notre conférence doivent accepter le code de conduite suivant. Les organisateurs s'attacheront à faire respecter ce code durant l'événement. Nous attendons de la part de chaque participant une coopération pour assurer un environnement sain pour tous.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+**En bref, ne soyez pas un imbécile.**
 
-### 2. Open [Source/Culture/Tech] Citizenship
+### Besoin d'aide ?
+Nos informations de contact sont disponibles dans les emails que nous avons envoyés _(contact@orleans-tech.com)_.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+### La version rapide
+Notre conférence se veut une expérience sans harcèlement, quel que soit votre sexe, votre identité sexuelle, votre âge, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre race ou votre religion. Nous ne tolérons aucun harcèlement des participants à la conférence, quel que soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors de l'événement. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants à la conférence qui violent ces règles peuvent être sanctionnés, voire exclus de la conférence sans remboursement, à la discrétion des organisateurs de la conférence.
 
-### 3. Expected Behavior
+### La version moins rapide
+Le harcèlement inclut des commentaires oraux sur le sexe, l'identité sexuelle, l'âge, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race, la religion, les images à connotation sexuelle dans des lieux publics, les intimidations délibérées, la traque, la poursuite, un harcèlement photographique ou vidéo, une suite d'interruption des conférences et des autres événements, un contact physique inapproprié et des avances sexuelles non désirées.
 
-The following behaviors are expected and requested of all community members:
+Les participants à qui il sera demandé d'arrêter tout comportement de harcèlement doivent arrêter immédiatement.
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before a conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+Les sponsors sont aussi sujet à la politique anti-harcèlement. En particulier, les sponsors ne doivent pas utiliser d'images ou de matériels à connotation sexuelle. Ils ne doivent pas non plus engager d'activités à connotation sexuelle. L'équipe du stand (y compris les volontaires) ne doivent pas utiliser de vêtements, uniformes ou costumes à connotation sexuelle. Ils ne doivent pas non plus créer un environnement sexualisé.
 
-### 4. Unacceptable Behavior
+Si un participant a un comportement de harcèlement, les organisateurs de la conférence peuvent prendre toute action qui leur semble adéquate. Cela va d'un simple avertissement à l'exclusion du participant de la conférence sans remboursement.
 
-The following actions are considered harassment and are unacceptable within our community:
+Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation de l'événement. Les membres sont facilement identifiables à leur t-shirts aux couleurs de l'événement.
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and, presentations.
+Les membres de l'organisation seront ravis d'aider les participants à contacter la sécurité du bâtiment où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Nous apprécions votre participation à l'événement.
 
-###  5. Consequences of Unacceptable Behavior
+Nous attendons des participants qu'ils suivent ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
-
-### 6. Scope
-
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
-
-### 7. Contact info
-
-- Oleh Zasadnyy, +38 093 486 64 60, [o.zasadnyy@gdg.org.ua](mailto:o.zasadnyy@gdg.org.ua)
-- Sofiya Huts, +38 093 486 14 25, [s.huts@gdg.org.ua](mailto:s.huts@gdg.org.ua)
+Source: https://fr.confcodeofconduct.com/
