@@ -67,7 +67,7 @@ Nous offrons une réduction pour les étudiants. Pour profiter de ce tarif, vous
 
 ### Plus de détails d'inscription
 
-- Assurez-vous de vous inscrire en utilisant le nom qui correspond à la photo d'identité émise par le gouvernement que vous présenterez lors de votre enregistrement au festival.
+- Assurez-vous de vous inscrire en utilisant le nom qui correspond à la pièce d'identité que vous utiliserez le jour de l'événement.
 - L'inscription à Orléans Tech Conf 2019 comprend une journée complète de sessions. Nous fournissons également des collations comprises dans l'inscription. En outre, les participants reçoivent un badge de la conférence.
 
 ## Détails de présence

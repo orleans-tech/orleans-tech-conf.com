@@ -21,7 +21,7 @@ Si un participant a un comportement de harcèlement, les organisateurs de la con
 
 Si vous vous sentez harcelé, si vous pensez que quelqu'un se fait harceler, et plus généralement en cas de problème, merci de contacter immédiatement un membre de l'organisation de l'événement. Les membres sont facilement identifiables à leur t-shirts aux couleurs de l'événement.
 
-Les membres de l'organisation seront ravis d'aider les participants à contacter la sécurité de l'hôtel ou du bâtiment où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Nous apprécions votre participation à l'événement.
+Les membres de l'organisation seront ravis d'aider les participants à contacter la sécurité du bâtiment où se déroule l'événement, ou les forces de l'ordre, à fournir une escorte ainsi qu'à aider de toute autre façon les personnes victimes de harcèlement, pour garantir leur sécurité pendant la durée de l'événement. Nous apprécions votre participation à l'événement.
 
 Nous attendons des participants qu'ils suivent ces règles dans le bâtiment des conférences et des ateliers, ainsi que pendant les événements sociaux relatifs à la conférence.
 
