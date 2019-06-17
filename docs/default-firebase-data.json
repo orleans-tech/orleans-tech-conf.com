@@ -193,7 +193,18 @@
           "name": "Paul Dos Santos",
           "photo": "/images/people/paul_dossantos.jpeg",
           "photoUrl": "https://media.licdn.com/dms/image/C4D03AQFxiceReO5KDQ/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=oKSJuO-JLf49HaG3OzuR89I0QGkGk8m7tNStcEzcclk",
-          "socials": [],
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/paulds45/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/eoras45",
+              "name": "Twitter"
+            }
+          ],
           "order": 6,
           "title": "Orga"
         }
@@ -232,7 +243,7 @@
       "name": "Ticket",
       "price": 55,
       "soldOut": false,
-      "starts":  "1 Jul",
+      "starts": "1 Jul",
       "url": "https://www.eventbrite.fr/e/billets-orleans-tech-conf-2019-61858302849#tickets"
     }
   ],
