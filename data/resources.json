@@ -9,7 +9,7 @@
   "followOur": "Suivez notre",
   "followUs": "Suivez nous",
   "emailUs": "Contact",
-  "partnershipResources": "Partenariats",
+  "partnershipResources": "Sponsoring",
   "eventResources": "Ressources",
   "buyTicket": "Achetez un ticket",
   "signIn": "Connexion",
@@ -50,7 +50,7 @@
       "title": "Ressources",
       "links": [
         {
-          "name": "Proposition et Information Partenariat",
+          "name": "Dossier de sponsoring",
           "url": "https://drive.google.com/file/d/1eJ4dNUpQaS71xHmi8h5Ilya3u-vl6IG5/view",
           "newTab": true
         },
@@ -101,10 +101,10 @@
     "save": "Économisez ${discount}% aujourd'hui"
   },
   "partnersBlock": {
-    "title": "Partenaires",
-    "button": "Devenez un partenaire",
+    "title": "Sponsors",
+    "button": "Devenez un sponsor",
     "form": {
-      "title": "Devenez un partenaire !",
+      "title": "Devenez un sponsor !",
       "submitLabel": "Envoyer",
       "fullName": "Nom complet",
       "companyName": "Entreprise"

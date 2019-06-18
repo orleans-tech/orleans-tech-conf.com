@@ -31,7 +31,19 @@
         }
       ],
       "order": 1,
-      "title": "Partenaires Silver"
+      "title": "Sponsors Silver"
+    },
+    {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/anybox.svg",
+          "name": "Anybox",
+          "url": "https://anybox.fr/"
+        }
+      ],
+      "order": 2,
+      "title": "Sponsors Bronze"
     }
   ],
   "schedule": {
