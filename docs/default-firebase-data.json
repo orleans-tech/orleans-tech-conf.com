@@ -40,6 +40,18 @@
           "logoUrl": "../images/logos/anybox.svg",
           "name": "Anybox",
           "url": "https://anybox.fr/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/umanis.png",
+          "name": "Umanis",
+          "url": "https://www.umanis.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/neosoft.png",
+          "name": "Néo-Soft",
+          "url": "https://www.neo-soft.fr"
         }
       ],
       "order": 2,
