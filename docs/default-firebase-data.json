@@ -52,6 +52,12 @@
           "logoUrl": "../images/logos/neosoft.png",
           "name": "Néo-Soft",
           "url": "https://www.neo-soft.fr"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/apside-top.png",
+          "name": "Apside TOP",
+          "url": "https://www.apside.com"
         }
       ],
       "order": 2,
@@ -90,26 +96,22 @@
     }
   },
   "speakers": {
-    "john_doe": {
-      "bio": "Lorem ipsum dolor sit amet",
-      "company": "Lorem Corporation",
-      "companyLogo": "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country": "France",
+    "pierre_gilles_leymarie": {
+      "company": "Gladys",
+      "country": "Paris, France",
       "featured": true,
-      "name": "John Doe",
-      "photo": "/images/people/adrian_kajda.jpg",
-      "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
-      "shortBio": "Lorem ipsum",
+      "name": "Pierre-Gilles Leymarie",
+      "order": 4,
+      "photo": "/images/people/pierre-gilles_leymarie.jpg",
+      "photoUrl": "https://pbs.twimg.com/profile_images/994230899624562690/gnM-mTUH_400x400.jpg",
       "socials": [
         {
           "icon": "twitter",
-          "link": "twitter.com/OrleansTech",
-          "name": "Google+"
+          "link": "https://twitter.com/pierregillesl",
+          "name": "Twitter"
         }
       ],
-      "order": 0,
-      "title": "Lorem Master"
+      "title": "Founder of Gladys Assistant"
     }
   },
   "team": [
@@ -240,7 +242,7 @@
     {
       "available": true,
       "currency": "€",
-      "ends": "1 Jul",
+      "ends": "1 Aug",
       "info": "",
       "name": "Early-bird ticket",
       "price": 45,

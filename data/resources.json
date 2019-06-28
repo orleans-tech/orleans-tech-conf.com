@@ -16,7 +16,7 @@
   "signOut": "Déconnexion",
   "viewHighlights": "Voir les temps forts",
   "offlineMessage": "Vous pouvez toujours utiliser le mode hors ligne.",
-  "cachingComplete": "Mise en cache terminée! Vous n'avez plus besoin d'internet.",
+  "cachingComplete": "Mise en cache terminée!",
   "newVersionAvailable": "Une nouvelle version de cette application est disponible.",
   "refresh": "Rafraîchir",
   "position": "Position",
@@ -102,9 +102,9 @@
   },
   "partnersBlock": {
     "title": "Sponsors",
-    "button": "Devenez un sponsor",
+    "button": "Devenez sponsor",
     "form": {
-      "title": "Devenez un sponsor !",
+      "title": "Devenez sponsor !",
       "submitLabel": "Envoyer",
       "fullName": "Nom complet",
       "companyName": "Entreprise"
