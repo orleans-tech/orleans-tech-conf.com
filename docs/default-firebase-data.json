@@ -52,6 +52,12 @@
           "logoUrl": "../images/logos/neosoft.png",
           "name": "Néo-Soft",
           "url": "https://www.neo-soft.fr"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/apside-top.png",
+          "name": "Apside TOP",
+          "url": "https://www.apside.com"
         }
       ],
       "order": 2,
