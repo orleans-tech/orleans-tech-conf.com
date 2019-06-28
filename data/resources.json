@@ -102,9 +102,9 @@
   },
   "partnersBlock": {
     "title": "Sponsors",
-    "button": "Devenez un sponsor",
+    "button": "Devenez sponsor",
     "form": {
-      "title": "Devenez un sponsor !",
+      "title": "Devenez sponsor !",
       "submitLabel": "Envoyer",
       "fullName": "Nom complet",
       "companyName": "Entreprise"
