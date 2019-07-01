@@ -16,7 +16,7 @@
     "locale": "fr-FR"
   },
   "hashtag": "OrleansTechConf",
-  "disabledSchedule": true,
+  "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
     {
@@ -33,6 +33,11 @@
       "route": "speakers",
       "permalink": "/speakers/",
       "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Planning"
     }
   ],
   "heroSettings": {

@@ -87,12 +87,148 @@
   },
   "sessions": {
     "101": {
-      "complexity": null,
+      "complexity": "",
       "description": "",
       "language": "Français",
       "speakers": [],
-      "tags": [],
-      "title": "À définir"
+      "tags": ["Organisation"],
+      "title": "Accueil et petit-déjeuner"
+    },
+    "102": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Organisation"],
+      "title": "Keynote d'ouverture / Mot de bienvenue"
+    },
+    "103": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 1"
+    },
+    "104": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 2"
+    },
+    "105": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Organisation"],
+      "title": "Pause"
+    },
+    "106": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 3"
+    },
+    "107": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 4"
+    },
+    "108": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Organisation"],
+      "title": "Pause"
+    },
+    "109": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 5"
+    },
+    "110": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 6"
+    },
+    "111": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Organisation"],
+      "title": "Pause"
+    },
+    "112": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 7"
+    },
+    "113": {
+      "complexity": "",
+      "description": "En sélection",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Talk"],
+      "title": "Talk 8"
+    },
+    "114": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Organisation"],
+      "title": "Keynote de clôture"
+    },
+    "115": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Atelier"],
+      "title": "Atelier 1"
+    },
+    "116": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Atelier"],
+      "title": "Atelier 2"
+    },
+    "117": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Atelier"],
+      "title": "Atelier 3"
+    },
+    "118": {
+      "complexity": "",
+      "description": "",
+      "language": "Français",
+      "speakers": [],
+      "tags": ["Atelier"],
+      "title": "Atelier 4"
     }
   },
   "speakers": {
