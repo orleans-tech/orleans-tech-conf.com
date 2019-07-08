@@ -1,11 +1,11 @@
 {
   "basepath": "/",
-  "url": "https://orleanstech.firebaseapp.com/",
+  "url": "https://orleans-tech-conf.com/",
   "analytics": "",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyCeZf_cnvGxVKm3ozelN5uyujF3169LPYo",
-    "authDomain": "orleanstech.firebaseapp.com",
+    "authDomain": "orleans-tech-conf.com",
     "databaseURL": "https://orleanstech.firebaseio.com",
     "projectId": "orleanstech",
     "storageBucket": "orleanstech.appspot.com",
