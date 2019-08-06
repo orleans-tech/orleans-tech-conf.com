@@ -71,15 +71,9 @@
         <div>
           <h1 class="container-title">{$ aboutBlock.title $}</h1>
           <p>{$ aboutBlock.callToAction.featuredSessions.description $}</p>
-          <a
-            href="{$ aboutBlock.callToAction.featuredSessions.link $}"
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="about block - {$ aboutBlock.callToAction.featuredSessions.label $}"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="{$ aboutBlock.callToAction.featuredSessions.link $}" ga-on="click" ga-event-category="video"
+            ga-event-action="watch" ga-event-label="about block - {$ aboutBlock.callToAction.featuredSessions.label $}"
+            target="_blank" rel="noopener noreferrer">
             <paper-button class="animated icon-right">
               <span class="cta-label">{$ aboutBlock.callToAction.featuredSessions.label $}</span>
               <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
@@ -117,10 +111,10 @@
             <div class="label">{$ aboutBlock.statisticsBlock.workshop.label $}</div>
           </div>
 
-          <!-- <div class="item">
-            <div class="numbers">{$ aboutBlock.statisticsBlock.tracks.number $}</div>
-            <div class="label">{$ aboutBlock.statisticsBlock.tracks.label $}</div>
-          </div> -->
+          <div class="item">
+            <div class="numbers">{$ aboutBlock.statisticsBlock.party.number $}</div>
+            <div class="label">{$ aboutBlock.statisticsBlock.party.label $}</div>
+          </div>
 
         </div>
       </div>

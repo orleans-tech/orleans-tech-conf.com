@@ -85,6 +85,10 @@
       "workshop": {
         "label": "Ateliers / Workshops",
         "number": "3"
+      },
+      "party": {
+        "label": "Soirée",
+        "number": "1"
       }
     }
   },
