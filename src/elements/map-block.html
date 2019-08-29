@@ -63,14 +63,7 @@
     </style>
 
     <template is="dom-if" if="[[viewport.isTabletPlus]]">
-      <good-map
-        id="map"
-        api-key="{$ googleMapApiKey $}"
-        latitude="{$ location.mapCenter.latitude $}"
-        longitude="{$ location.mapCenter.longitude $}"
-        zoom="{$ location.pointer.zoom $}"
-        map-options="[[options]]"
-      ></good-map>
+      <iframe width="100%" height="640" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWRZ1iibl5EcRfUsUkrlxEVI&key=AIzaSyAy52KJHQ3La_zLkMr-n7iCLovkfpoTVhI" allowfullscreen></iframe>
     </template>
 
     <div class="container" layout vertical end-justified fit$="[[viewport.isTabletPlus]]">
